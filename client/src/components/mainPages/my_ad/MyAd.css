@@ -1,0 +1,16 @@
+.divForFeature{
+    display: flex;
+    flex-direction: column;
+}
+
+.divForFeature button{
+    color: blue;
+    height: 40px;
+    border: 2px solid red;
+    border-radius: 15px;
+}
+
+.divForFeature button:hover{
+    cursor: pointer;
+    background-color: violet;
+}
